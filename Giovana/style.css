@@ -1,0 +1,38 @@
+html{
+    background-color: rgb(224, 175, 210);
+    margin: 1cm;
+}
+
+body{
+    background-color: rgb(253, 207, 235);
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    border: darkgray rgb(155, 50, 129) solid 6px;
+    text-align: center;
+}
+
+img{
+    border-radius: 100px;
+    width: 100px;
+}
+.perfil{
+    color: blueviolet;
+}
+.desc{
+    color: blueviolet;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+a{
+    margin: 5px;
+    background-color: rgb(223, 87, 211);
+    padding: 3px;
+    border-radius: 5px;
+}
+h2{
+    text-align: left;
+}
